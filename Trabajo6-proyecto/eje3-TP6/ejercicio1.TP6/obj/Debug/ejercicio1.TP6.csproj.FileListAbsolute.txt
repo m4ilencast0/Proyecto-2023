@@ -1,0 +1,3 @@
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\ejercicio1.TP6\ejercicio1.TP6\obj\Debug\ejercicio1.TP6.csproj.AssemblyReference.cache
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\ejercicio1.TP6\ejercicio1.TP6\obj\Debug\ejercicio1.TP6.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\ejercicio1.TP6\ejercicio1.TP6\obj\Debug\ejercicio1.TP6.csproj.CoreCompileInputs.cache

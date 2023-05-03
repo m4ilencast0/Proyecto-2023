@@ -1,0 +1,16 @@
+D:\eje1-TP4\eje1-TP4\bin\Debug\eje1-TP4.exe.config
+D:\eje1-TP4\eje1-TP4\bin\Debug\eje1-TP4.exe
+D:\eje1-TP4\eje1-TP4\bin\Debug\eje1-TP4.pdb
+D:\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.csproj.AssemblyReference.cache
+D:\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.csproj.SuggestedBindingRedirects.cache
+D:\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.csproj.CoreCompileInputs.cache
+D:\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.exe
+D:\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.pdb
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\bin\Debug\eje1-TP4.exe.config
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\bin\Debug\eje1-TP4.exe
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\bin\Debug\eje1-TP4.pdb
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.csproj.AssemblyReference.cache
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.csproj.CoreCompileInputs.cache
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.exe
+D:\PROYECTO-2023\Trabajo-practico-N°4-proyecto\eje1-TP4\eje1-TP4\obj\Debug\eje1-TP4.pdb

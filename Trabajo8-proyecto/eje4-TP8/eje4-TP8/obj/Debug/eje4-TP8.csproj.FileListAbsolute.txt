@@ -1,0 +1,8 @@
+D:\eje4-TP8\eje4-TP8\obj\Debug\eje4-TP8.csproj.AssemblyReference.cache
+D:\eje4-TP8\eje4-TP8\obj\Debug\eje4-TP8.csproj.SuggestedBindingRedirects.cache
+D:\eje4-TP8\eje4-TP8\obj\Debug\eje4-TP8.csproj.CoreCompileInputs.cache
+D:\eje4-TP8\eje4-TP8\bin\Debug\eje4-TP8.exe.config
+D:\eje4-TP8\eje4-TP8\bin\Debug\eje4-TP8.exe
+D:\eje4-TP8\eje4-TP8\bin\Debug\eje4-TP8.pdb
+D:\eje4-TP8\eje4-TP8\obj\Debug\eje4-TP8.exe
+D:\eje4-TP8\eje4-TP8\obj\Debug\eje4-TP8.pdb

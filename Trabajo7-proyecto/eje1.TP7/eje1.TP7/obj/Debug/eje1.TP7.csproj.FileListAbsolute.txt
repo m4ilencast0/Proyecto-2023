@@ -1,0 +1,8 @@
+D:\eje1.TP7\eje1.TP7\bin\Debug\eje1.TP7.exe.config
+D:\eje1.TP7\eje1.TP7\bin\Debug\eje1.TP7.exe
+D:\eje1.TP7\eje1.TP7\bin\Debug\eje1.TP7.pdb
+D:\eje1.TP7\eje1.TP7\obj\Debug\eje1.TP7.csproj.AssemblyReference.cache
+D:\eje1.TP7\eje1.TP7\obj\Debug\eje1.TP7.csproj.SuggestedBindingRedirects.cache
+D:\eje1.TP7\eje1.TP7\obj\Debug\eje1.TP7.csproj.CoreCompileInputs.cache
+D:\eje1.TP7\eje1.TP7\obj\Debug\eje1.TP7.exe
+D:\eje1.TP7\eje1.TP7\obj\Debug\eje1.TP7.pdb

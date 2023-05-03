@@ -1,0 +1,16 @@
+D:\eje2-tp6\eje2-tp6\bin\Debug\eje2-tp6.exe.config
+D:\eje2-tp6\eje2-tp6\bin\Debug\eje2-tp6.exe
+D:\eje2-tp6\eje2-tp6\bin\Debug\eje2-tp6.pdb
+D:\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.csproj.AssemblyReference.cache
+D:\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.csproj.SuggestedBindingRedirects.cache
+D:\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.csproj.CoreCompileInputs.cache
+D:\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.exe
+D:\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.pdb
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\bin\Debug\eje2-tp6.exe.config
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\bin\Debug\eje2-tp6.exe
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\bin\Debug\eje2-tp6.pdb
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.csproj.AssemblyReference.cache
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.csproj.CoreCompileInputs.cache
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.exe
+D:\PROYECTO-2023\Trabajo-Practico-N°6-proyecto\eje2-tp6\eje2-tp6\obj\Debug\eje2-tp6.pdb

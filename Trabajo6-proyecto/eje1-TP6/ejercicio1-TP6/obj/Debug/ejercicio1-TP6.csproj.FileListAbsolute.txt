@@ -1,0 +1,8 @@
+D:\ejercicio1-TP6\ejercicio1-TP6\obj\Debug\ejercicio1-TP6.csproj.AssemblyReference.cache
+D:\ejercicio1-TP6\ejercicio1-TP6\obj\Debug\ejercicio1-TP6.csproj.SuggestedBindingRedirects.cache
+D:\ejercicio1-TP6\ejercicio1-TP6\obj\Debug\ejercicio1-TP6.csproj.CoreCompileInputs.cache
+D:\ejercicio1-TP6\ejercicio1-TP6\bin\Debug\ejercicio1-TP6.exe.config
+D:\ejercicio1-TP6\ejercicio1-TP6\bin\Debug\ejercicio1-TP6.exe
+D:\ejercicio1-TP6\ejercicio1-TP6\bin\Debug\ejercicio1-TP6.pdb
+D:\ejercicio1-TP6\ejercicio1-TP6\obj\Debug\ejercicio1-TP6.exe
+D:\ejercicio1-TP6\ejercicio1-TP6\obj\Debug\ejercicio1-TP6.pdb
